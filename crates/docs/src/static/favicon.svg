@@ -1,5 +1,1 @@
-<svg viewBox="0 0 52 53" xmlns="http://www.w3.org/2000/svg">
-  <!-- Make this icon look nicer in dark mode. (Only Firefox supports this; others ignore it.) -->
-  <style>@media (prefers-color-scheme: dark){polygon{fill:#9c7bea}}</style>
-  <polygon fill="#7d59dd" points="0,0 23.8834,3.21052 37.2438,19.0101 45.9665,16.6324 50.5,22 45,22 44.0315,26.3689 26.4673,39.3424 27.4527,45.2132 17.655,53 23.6751,22.7086"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 53"><style>@media (prefers-color-scheme:dark){polygon{fill:#9c7bea}}</style><polygon fill="#7d59dd" points="0 0 23.883 3.211 37.244 19.01 45.967 16.632 50.5 22 45 22 44.032 26.369 26.467 39.342 27.453 45.213 17.655 53 23.675 22.709"/></svg>
